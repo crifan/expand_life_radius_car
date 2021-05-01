@@ -1,0 +1,22 @@
+{
+  "title": "扩大你的生活半径：汽车",
+  "description": "介绍能扩大你的生活半径的汽车。主要介绍一些大的宏观的概念和逻辑。包括汽车的概述；汽车的通用逻辑；汽车的分类；燃油车；电动车；氢能车；自动驾驶，包括不同等级和对应常见功能，以及详细解释了TJA交通拥堵辅助系统；以及硬件，包括摄像头、毫米波雷达、激光雷达、汽车芯片等；和相关软件，包括操作系统和数据等。最后给出参考资料。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "expand_life_radius_car"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/expand_life_radius_car/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/expand_life_radius_car/pdf/expand_life_radius_car.pdf"
+    }
+  }
+}
